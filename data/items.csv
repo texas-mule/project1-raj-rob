@@ -1,22 +1,21 @@
-Revolver
-Axe
-Angel Feather
-Dynamite
-Dark Dice
-Amulet of the Ages
-Idol
-Armor
-Adrenaline Shot
-Puzzle Box
-Bottle
-pickpocket's gloves
-Bell
-Rabbit's food
-Sacrifical Dagger
-Lucky Stone
-Medical kit
-Blood dagger
-Healing salve
-Smelling salts
-Candle
-Music Box
+1,Revolver,2,0
+2,Axe,2,0
+3,Angel Feather,-1,1
+4,Dynamite,3,0
+5,Dark Dice,1,1
+6,Amulet of the Ages,0,1
+7,Idol,0,2
+8,Armor,1,0
+9,Adrenaline Shot,1,0
+10,Puzzle Box,0,1
+11,Bottle,0,1
+12,Bell,-1,1
+13,Rabbits Foot,0,1
+14,Sacrifical Dagger,1,-2
+15,Lucky Stone,0,1
+16,Medical Kit,0,1
+16,Blood Dagger,1,0
+17,Healing Salve,0,2
+18,Smelling Salts,0,1
+19,Candle,0,1
+20,Music Box,0,2
